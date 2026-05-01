@@ -8,5 +8,5 @@ export default function RootLayout({ children }) {
     <html lang="zh">
       <body>{children}</body>
     </html>
-  );
+  ); 
 }
